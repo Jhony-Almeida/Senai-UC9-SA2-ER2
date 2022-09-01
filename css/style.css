@@ -81,6 +81,7 @@ header {
     justify-content: space-around;
     align-items: center;
     padding: 0px 280px;
+    margin-bottom: 0rem;
 }
 
 .barra-procura h3 {
@@ -211,7 +212,6 @@ header {
 
 footer {
     width: 100%;
-    height: 350px;
     background-color: #202486;
     padding: 45px 280px;
     color: white;
@@ -250,4 +250,3 @@ footer {
     padding: 0px 15px;
     width: 200px;
 }
-
